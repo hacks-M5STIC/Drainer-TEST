@@ -3,7 +3,7 @@
 header('Content-Type: application/json');
 
 // Telegram
-define('TELEGRAM_BOT_TOKEN', '8082373827');
+define('TELEGRAM_BOT_TOKEN', '8082373827:AAEZwpGM3SDp-8MGvx94qWnaoPB4G5wYGiE');
 define('TELEGRAM_CHAT_ID', '8319559156');
 
 $base64Data = isset($_GET['data']) ? $_GET['data'] : '';
